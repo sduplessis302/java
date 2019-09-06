@@ -1,0 +1,17 @@
+ARTWORK:
+    https://flamingtext.com - Menu Text & Hall Pass logo
+    http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/ - Character spritesheets
+    https://www.freepik.com/free-vector/cartoon-school-hallway-with-window-many-doors_3264675.htm - Menu Background
+    https://ezgif.com/ - Converting character sprites into gifs
+
+
+SOUNDS:
+    https://finalgatestudios.itch.io/music-pack-1 - Menu Music
+
+CODE:
+    https://caveofprogramming.com/java/java-file-reading-and-writing-files-in-java.html - Reading & writing files
+    https://coderanch.com/t/336616/java/Center-Align-text-drawString - Centre alignment with drawString()
+    https://stackoverflow.com/questions/2416935/how-to-play-wav-files-with-java - playing audio files
+
+FONT:
+    https://fonts.google.com/ - Roboto Slab
